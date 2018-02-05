@@ -4,9 +4,9 @@
 class Candidate {
 private:
 	std::string party;
+	std::string name;
 
 public:
-	std::string name;
 	Candidate();
 	Candidate(std::string t_name, std::string t_party);
 	~Candidate();
