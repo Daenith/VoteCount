@@ -1,0 +1,11 @@
+﻿  stdafx.cpp
+  BallotPaper.cpp
+  Candidate.cpp
+  VoteCount.cpp
+  VoteCounter.cpp
+VoteCounter.cpp(113): warning C4018: '<': signed/unsigned mismatch
+VoteCounter.cpp(121): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  All 697 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  VoteCount.vcxproj -> D:\Users\Daenith\Documents\Visual Studio 2017\Projects\VoteCount\Release\VoteCount.exe
