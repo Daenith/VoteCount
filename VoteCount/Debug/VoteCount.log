@@ -1,11 +1,2 @@
-﻿  BallotPaper.cpp
-  Generating Code...
-  Compiling...
-  VoteCounter.cpp
-d:\users\daenith\documents\visual studio 2017\projects\votecount\votecount\votecounter.cpp(113): warning C4018: '<': signed/unsigned mismatch
-d:\users\daenith\documents\visual studio 2017\projects\votecount\votecount\votecounter.cpp(121): warning C4018: '<': signed/unsigned mismatch
-  Candidate.cpp
-  Generating Code...
-  Skipping... (no relevant changes detected)
-  VoteCount.cpp
+﻿  VoteCount.cpp
   VoteCount.vcxproj -> D:\Users\Daenith\Documents\Visual Studio 2017\Projects\VoteCount\Debug\VoteCount.exe
